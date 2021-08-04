@@ -10,7 +10,7 @@ void main() {
       backgroundColor: Colors.blueGrey,
       body: Center(
         child: Image(
-          image: NetworkImage('https://thumbs.dreamstime.com/b/cosmos-beauty-deep-space-elements-image-furnished-nasa-science-fiction-art-102581846.jpg'),
+          image: AssetImage('Images/diamond.png'),
         ),
       ),
     ),
